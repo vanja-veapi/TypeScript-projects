@@ -6,3 +6,4 @@ const inputs = document.querySelectorAll("input");
 inputs.forEach((input) => {
     console.log(input);
 });
+const id = 1;
